@@ -181,36 +181,29 @@
 
 <div id="activities">
     <h2 data-aos="fade-up">NOS ACTIVITés</h2>
-    <p style="margin-bottom: 3rem; color: #85929e; text-align: center;">Lorem ipsum dolor sit amet, consectetur
-        adipisicing elit. Voluptas, cupiditate.</p>
+    <p style="margin-bottom: 3rem; color: #85929e; text-align: center;">Nous intervenons lors des émissions radio et télé afin d'apporter notre expertise en édifiant le public sur l'application du droit dans la vie quotidienne.</p>
     <article data-aos="fade-up">
         <div class="title">
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, error?</h4>
-            <p style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum totam
-                harum, nesciunt nulla minima neque vero blanditiis corporis repellendus sed voluptatum qui rerum
-                sequi repellat itaque, hic accusamus quo veniam. Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Officia perspiciatis corrupti distinctio fuga facere suscipit reprehenderit
-                laudantium? Veritatis, ipsum enim.</p>
-            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 12 Juin 2022 à
+            <h4>EMISSION DU 1er JUILLET 2024 BALAFON TV PRESENTEE PAR BLANCHE BITGA</h4>
+            <p style="text-align: justify;">Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
+            https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i</p>
+            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 02 Juillet 2024 à
                 15h43</span>
         </div>
         <div class="file">
-            <img src="./images/activities/MSN-1280-x-720-11.webp" alt="">
+            <img src="./images/activities/balafon1.jpg" alt="balafon1">
         </div>
     </article>
     <article data-aos="fade-up">
         <div class="title">
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, error?</h4>
-            <p style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum totam
-                harum, nesciunt nulla minima neque vero blanditiis corporis repellendus sed voluptatum qui rerum
-                sequi repellat itaque, hic accusamus quo veniam. Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Officia perspiciatis corrupti distinctio fuga facere suscipit reprehenderit
-                laudantium? Veritatis, ipsum enim.</p>
-            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 12 Juin 2022 à
-                15h43</span>
+            <h4>EMISSION DU 14 JUIN 2024 BALAFON TV PRESENTEE PAR CLAUDE MAYO</h4>
+            <p style="text-align: justify;">Thème : fonction publique camerounaise, quand le serviteur devient roi. <br> 
+            https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/</p>
+            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
+                10h21</span>
         </div>
         <div class="file">
-            <img src="./images/activities/MSN-1280-x-720-11.webp" alt="">
+            <img src="./images/activities/balafon2.jpg" alt="balafon2">
         </div>
     </article>
     <article data-aos="fade-up">

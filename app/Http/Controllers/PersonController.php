@@ -24,7 +24,7 @@ class PersonController extends Controller
             'phone' => $request->phone
         ]);
 
-        Mail::to('stephaneboska@gmail.com')->send(new OrderShipped2($person)); 
+        Mail::to('cabinetdoungue@gmail.com')->send(new OrderShipped2($person)); 
 
         notifer()->success('Formulaire envoyé avec succès !');
         return back()->with('success', 'Envoyé avec succès!');

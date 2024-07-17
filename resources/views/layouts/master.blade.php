@@ -87,8 +87,8 @@
                 <h3>COORDONNEES</h3>
                 <ul>
                     <li><a href="tel:+237657593897">téléphone : +237 657 593 897</a></li>
-                    <li><a href="mailto:dounguelawfirm@gmail.com">E-mail : dounguelawfirm@gmail.com</a></li>
-                    <li style="color: #fff;">Adresse : Akwa, Boulevard de la Liberté. Douala</li>
+                    <li><a href="mailto:dounguelawfirm@gmail.com">E-mail : cabinetdoungue@gmail.com</a></li>
+                    <li style="color: #fff;">Adresse : 1403 Rue DIKA MPONDO Douala</li>
                     <li>Horaires : Du lundi au vendredi de 8h00 à 17h00</li>
                 </ul>
             </div>

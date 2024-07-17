@@ -33,7 +33,7 @@ class CandidateController extends Controller {
             'cv' => $cv
         ]);
 
-        Mail::to('stephaneboska@gmail.com')->send(new OrderShipped($candidate));
+        Mail::to('cabinetdoungue@gmail.com')->send(new OrderShipped($candidate));
         
         notifer()->success('Candidature soumise');
         return back()->with('success', 'Envoyé avec succès!');
