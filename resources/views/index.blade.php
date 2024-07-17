@@ -208,32 +208,16 @@
     </article>
     <article data-aos="fade-up">
         <div class="title">
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, error?</h4>
-            <p style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum totam
-                harum, nesciunt nulla minima neque vero blanditiis corporis repellendus sed voluptatum qui rerum
-                sequi repellat itaque, hic accusamus quo veniam. Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Officia perspiciatis corrupti distinctio fuga facere suscipit reprehenderit
-                laudantium? Veritatis, ipsum enim.</p>
-            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 12 Juin 2022 à
-                15h43</span>
+            <h4>Cameroun Info – Insolite: Un homme convoqué à la gendarmerie, dans les commissariats et au Parquet à Douala, près de 30 fois en deux ans</h4>
+            <p style="text-align: justify;">
+            Jules Mbida Mbezele subit l’acharnement de son frère consanguin Pierre Ebanda en conflit avec lui depuis plusieurs années dans le cadre d’une affaire de succession familiale. <br>
+            Jeudi, 26 Août 2021, il est 15 heures. Nous sommes  à Afrique Hôtel, un établissement touristique situé dans le 3ème arrondissement de la ville de Douala. L’une de ses salles accueille une conférence de presse.  Elle n’est pas comme les autres. Ce sont des membres d’une famille polygamique qui ont réuni les journalistes pour leur parler des problèmes qu’ils rencontrent. Ces jeunes, femmes  et tout-petits sont entourés de leur conseil Me Corentin Doungue, avocat aux barreaux du Cameroun et de Gambie. Au cours de leur communication, le nom Jules Mbida Mbezele est souvent entendu.  C’est l’un des membres de cette fratrie détenu en ce moment à la prison centrale de Ngoumou "depuis deux semaines"  Il est poursuivi pour  "coups et blessures en coaction" par son frère consanguin Pierre Ebanda.
+            <a href="https://www.cameroon-info.net/article/cameroun-insolite-un-homme-convoque-a-la-gendarmerie-dans-les-commissariats-et-au-parquet-404022.html">Lire l'article complet</a>
+            </p>
+            <span style="color: #85929e; font-style: italic;">YAOUNDE 27 Aout 2021  15h00 | Rédigé et publié par Pierre Arnaud NTCHAPDA, Cameroon-Info.Net</span>
         </div>
         <div class="file">
-            <img src="./images/activities/MSN-1280-x-720-11.webp" alt="">
-        </div>
-    </article>
-    <article data-aos="fade-up">
-        <div class="title">
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, error?</h4>
-            <p style="text-align: justify;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum totam
-                harum, nesciunt nulla minima neque vero blanditiis corporis repellendus sed voluptatum qui rerum
-                sequi repellat itaque, hic accusamus quo veniam. Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Officia perspiciatis corrupti distinctio fuga facere suscipit reprehenderit
-                laudantium? Veritatis, ipsum enim.</p>
-            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 12 Juin 2022 à
-                15h43</span>
-        </div>
-        <div class="file">
-            <img src="./images/activities/MSN-1280-x-720-11.webp" alt="">
+            <img src="./images/activities/Conférence_de_presse_4_cameroon-info-p-net_800xm9x.jpg" alt="Conférence_de_presse_4_cameroon-info-p-net_800xm9x">
         </div>
     </article>
 </div>
