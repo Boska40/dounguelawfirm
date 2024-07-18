@@ -186,7 +186,7 @@
         <div class="title">
             <h4>EMISSION DU 1er JUILLET 2024 BALAFON TV PRESENTEE PAR BLANCHE BITGA</h4>
             <p style="text-align: justify;">Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
-                <a href="https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i">Voir l'émission</a>
+                <a href="https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i" target="_blank">Voir l'émission</a>
             </p>
             <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 02 Juillet 2024 à
                 15h43</span>
@@ -199,7 +199,7 @@
         <div class="title">
             <h4>EMISSION DU 14 JUIN 2024 BALAFON TV PRESENTEE PAR CLAUDE MAYO</h4>
             <p style="text-align: justify;">Thème : fonction publique camerounaise, quand le serviteur devient roi. <br> 
-                <a href="https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/">Voir l'émission</a>
+                <a href="https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/" target="_blank">Voir l'émission</a>
             </p>
             <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
                 10h21</span>
@@ -214,7 +214,7 @@
             <p style="text-align: justify;">
             Jules Mbida Mbezele subit l’acharnement de son frère consanguin Pierre Ebanda en conflit avec lui depuis plusieurs années dans le cadre d’une affaire de succession familiale. <br>
             Jeudi, 26 Août 2021, il est 15 heures. Nous sommes  à Afrique Hôtel, un établissement touristique situé dans le 3ème arrondissement de la ville de Douala. L’une de ses salles accueille une conférence de presse.  Elle n’est pas comme les autres. Ce sont des membres d’une famille polygamique qui ont réuni les journalistes pour leur parler des problèmes qu’ils rencontrent. Ces jeunes, femmes  et tout-petits sont entourés de leur conseil Me Corentin Doungue, avocat aux barreaux du Cameroun et de Gambie. Au cours de leur communication, le nom Jules Mbida Mbezele est souvent entendu.  C’est l’un des membres de cette fratrie détenu en ce moment à la prison centrale de Ngoumou "depuis deux semaines"  Il est poursuivi pour  "coups et blessures en coaction" par son frère consanguin Pierre Ebanda.
-            <a href="https://www.cameroon-info.net/article/cameroun-insolite-un-homme-convoque-a-la-gendarmerie-dans-les-commissariats-et-au-parquet-404022.html">Lire l'article complet</a>
+            <a href="https://www.cameroon-info.net/article/cameroun-insolite-un-homme-convoque-a-la-gendarmerie-dans-les-commissariats-et-au-parquet-404022.html" target="_blank">Lire l'article complet</a>
             </p>
             <span style="color: #85929e; font-style: italic;">YAOUNDE 27 Aout 2021  15h00 | Rédigé et publié par Pierre Arnaud NTCHAPDA, Cameroon-Info.Net</span>
         </div>
