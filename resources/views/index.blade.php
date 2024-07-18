@@ -46,7 +46,7 @@
         <p style="margin-bottom: 1rem; font-weight: bold;">"L'avocat c'est quelqu'un qu'il faut voir avant pour
             éviter les ennuis après"</p>
         <p style="text-align: justify; margin-bottom:5rem;">Notre philosophie est de pouvoir accompagner
-            de manière pédagogue, personnelle et transparente chacun de nos clients tant en Afrique qu'à l'international afin de construire une
+            de manière pédagogue, personnelle et transparente chacun de nos clients tant sur le plan national qu'international afin de construire une
             relation de confiance favorisant au mieux la défense de leurs intérêts.</p>
         <p
             style="font-family: 'Dancing Script'; font-weight: bold; font-size: 2rem; color: #05244d; text-align: center;">
