@@ -186,26 +186,26 @@
         <div class="title">
             <h4>EMISSION DU 1er JUILLET 2024 BALAFON TV PRESENTEE PAR BLANCHE BITGA</h4>
             <p style="text-align: justify;">Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
-                <a href="https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i">https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i</a>
+                <a href="https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i">Voir l'émission</a>
             </p>
             <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 02 Juillet 2024 à
                 15h43</span>
         </div>
         <div class="file">
-            <video src="./images/videos/emissionjuillet2024.mp4" playsinline autoplay loop></video>
+            <video src="./images/videos/emission juillet2024.mp4" playsinline autoplay loop></video>
         </div>
     </article>
     <article data-aos="fade-up">
         <div class="title">
             <h4>EMISSION DU 14 JUIN 2024 BALAFON TV PRESENTEE PAR CLAUDE MAYO</h4>
             <p style="text-align: justify;">Thème : fonction publique camerounaise, quand le serviteur devient roi. <br> 
-                <a href="https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/">https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/</a>
+                <a href="https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/">Voir l'émission</a>
             </p>
             <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
                 10h21</span>
         </div>
         <div class="file">
-        <video src="./images/videos/emissionjuin2024.mp4" playsinline autoplay loop></video>
+        <video src="./images/videos/emission juin2024.mp4" playsinline autoplay loop></video>
         </div>
     </article>
     <article data-aos="fade-up">
