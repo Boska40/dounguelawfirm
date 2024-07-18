@@ -192,7 +192,7 @@
                 15h43</span>
         </div>
         <div class="file">
-            <video src="./images/videos/emission juillet2024.mp4" playsinline loop></video>
+            <video src="./images/videos/emission juillet2024.mp4" playsinline controls loop></video>
         </div>
     </article>
     <article data-aos="fade-up">
@@ -205,7 +205,7 @@
                 10h21</span>
         </div>
         <div class="file">
-        <video src="./images/videos/emission juin2024.mp4" playsinline loop></video>
+        <video src="./images/videos/emission juin2024.mp4" playsinline controls loop></video>
         </div>
     </article>
     <article data-aos="fade-up">
