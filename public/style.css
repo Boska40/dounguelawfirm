@@ -914,6 +914,9 @@ footer .topfooter .contact ul li a:hover {
     #activities article .file {
         width: 100%;
     }
+    #activities article .file video{
+        pointer-events: all;
+    }
 
     .statistics {
         margin: 2rem;
