@@ -46,7 +46,7 @@
         <p style="margin-bottom: 1rem; font-weight: bold;">"L'avocat c'est quelqu'un qu'il faut voir avant pour
             éviter les ennuis après"</p>
         <p style="text-align: justify; margin-bottom:5rem;">Notre philosophie est de pouvoir accompagner
-            de manière pédagogue, personnelle et transparente chacun de nos clients afin de construire une
+            de manière pédagogue, personnelle et transparente chacun de nos clients tant en Afrique qu'à l'international afin de construire une
             relation de confiance favorisant au mieux la défense de leurs intérêts.</p>
         <p
             style="font-family: 'Dancing Script'; font-weight: bold; font-size: 2rem; color: #05244d; text-align: center;">
@@ -186,24 +186,26 @@
         <div class="title">
             <h4>EMISSION DU 1er JUILLET 2024 BALAFON TV PRESENTEE PAR BLANCHE BITGA</h4>
             <p style="text-align: justify;">Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
-            https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i</p>
+                <a href="https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i">https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i</a>
+            </p>
             <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 02 Juillet 2024 à
                 15h43</span>
         </div>
         <div class="file">
-            <img src="./images/activities/balafon1.jpg" alt="balafon1">
+            <video src="./images/videos/emissionjuillet2024.mp4" playsinline autoplay loop></video>
         </div>
     </article>
     <article data-aos="fade-up">
         <div class="title">
             <h4>EMISSION DU 14 JUIN 2024 BALAFON TV PRESENTEE PAR CLAUDE MAYO</h4>
             <p style="text-align: justify;">Thème : fonction publique camerounaise, quand le serviteur devient roi. <br> 
-            https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/</p>
+                <a href="https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/">https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/</a>
+            </p>
             <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
                 10h21</span>
         </div>
         <div class="file">
-            <img src="./images/activities/balafon2.jpg" alt="balafon2">
+        <video src="./images/videos/emissionjuin2024.mp4" playsinline autoplay loop></video>
         </div>
     </article>
     <article data-aos="fade-up">
@@ -228,10 +230,10 @@
         PARTNERS c'est :</p>
     <div class="stats">
         <div class="bloc" data-aos="fade-up">
-            <p><span>+100</span> <br>particuliers défendus</p>
+            <p><span>+500</span> <br>particuliers défendus</p>
         </div>
         <div class="bloc" data-aos="fade-down">
-            <p><span>+10</span> <br>entreprises assistées</p>
+            <p><span>+100</span> <br>entreprises assistées</p>
         </div>
         <div class="bloc" data-aos="fade-up">
             <p><span><a href="https://www.hitwebcounter.com" target="_blank">

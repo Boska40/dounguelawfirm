@@ -80,7 +80,7 @@
                     <li><a href="#about">Notre cabinet</a></li>
                     <li><a href="#domains">Domaines d’expertise</a></li>
                     <li><a href="#activities">Activités</a></li>
-                    <li><a href="./carreer.php" class="carreer">Carrières</a></li>
+                    <li><a href="/carreer" class="carreer">Carrières</a></li>
                 </ul>
             </div>
             <div class="contact">
