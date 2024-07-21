@@ -599,6 +599,7 @@ footer .topfooter .contact ul li a:hover {
 .map{
     margin: 2rem 8rem;
     overflow: hidden;
+    width: 100%;
 }
 .map iframe{
     width: 100%;
