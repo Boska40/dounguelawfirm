@@ -184,8 +184,8 @@
     <p style="margin-bottom: 3rem; color: #85929e; text-align: center;">Nous intervenons lors des émissions radio et télé afin d'apporter notre expertise en édifiant le public sur l'application du droit dans la vie quotidienne.</p>
     <article data-aos="fade-up">
         <div class="title">
-            <h4>EMISSION DU 19 JUILLET 2024 BALAFON TV</h4>
-            <p>GRAND PLATEAU BALAFON TV<br>
+            <h4>EMISSION DU 19 JUILLET 2024 BALAFON TV PRESENTEE PAR CLAUDE MAYO</h4>
+            <p>Thème : Sortie gouvernementale. De quels outrage parle t-on véritablement ?<br>
                 <a href="https://m.facebook.com/story.php?story_fbid=406994755718023&id=61553684789108&sfnsn=wa&mibextid=2Rb1fB" target="_blank">Voir l'émission</a>
             </p>
             <span style="font-size: 12px;font-style: italic;color: #85929e;">Publié par Corentin DOUNGUE | Le 20 Juillet 2024 à
