@@ -578,6 +578,9 @@ footer .topfooter .contact ul li a:hover {
 }
 #activities article .title{
     width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
 }
 #activities article .file{
     width: 30%;
