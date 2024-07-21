@@ -185,10 +185,10 @@
     <article data-aos="fade-up">
         <div class="title">
             <h4>EMISSION DU 19 JUILLET 2024 BALAFON TV</h4>
-            <p style="text-align: justify; font-size 12px;">GRAND PLATEAU BALAFON TV<br>
+            <p>GRAND PLATEAU BALAFON TV<br>
                 <a href="https://m.facebook.com/story.php?story_fbid=406994755718023&id=61553684789108&sfnsn=wa&mibextid=2Rb1fB" target="_blank">Voir l'émission</a>
             </p>
-            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 20 Juillet 2024 à
+            <span>Publié par Corentin DOUNGUE | Le 20 Juillet 2024 à
                 15h43</span>
         </div>
         <div class="file">
@@ -198,10 +198,10 @@
     <article data-aos="fade-up">
         <div class="title">
             <h4>EMISSION DU 1er JUILLET 2024 BALAFON TV PRESENTEE PAR BLANCHE BITGA</h4>
-            <p style="text-align: justify;">Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
+            <p>Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
                 <a href="https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i" target="_blank">Voir l'émission</a>
             </p>
-            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 02 Juillet 2024 à
+            <span>Publié par Corentin DOUNGUE | Le 02 Juillet 2024 à
                 15h43</span>
         </div>
         <div class="file">
@@ -211,10 +211,10 @@
     <article data-aos="fade-up">
         <div class="title">
             <h4>EMISSION DU 14 JUIN 2024 BALAFON TV PRESENTEE PAR CLAUDE MAYO</h4>
-            <p style="text-align: justify;">Thème : fonction publique camerounaise, quand le serviteur devient roi. <br> 
+            <p>Thème : fonction publique camerounaise, quand le serviteur devient roi. <br> 
                 <a href="https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/" target="_blank">Voir l'émission</a>
             </p>
-            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
+            <span>Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
                 10h21</span>
         </div>
         <div class="file">
@@ -224,12 +224,12 @@
     <article data-aos="fade-up">
         <div class="title">
             <h4>Cameroun Info – Insolite: Un homme convoqué à la gendarmerie, dans les commissariats et au Parquet à Douala, près de 30 fois en deux ans</h4>
-            <p style="text-align: justify;">
+            <p>
             Jules Mbida Mbezele subit l’acharnement de son frère consanguin Pierre Ebanda en conflit avec lui depuis plusieurs années dans le cadre d’une affaire de succession familiale. <br>
             Jeudi, 26 Août 2021, il est 15 heures. Nous sommes  à Afrique Hôtel, un établissement touristique situé dans le 3ème arrondissement de la ville de Douala. L’une de ses salles accueille une conférence de presse.  Elle n’est pas comme les autres. Ce sont des membres d’une famille polygamique qui ont réuni les journalistes pour leur parler des problèmes qu’ils rencontrent. Ces jeunes, femmes  et tout-petits sont entourés de leur conseil Me Corentin Doungue, avocat aux barreaux du Cameroun et de Gambie. 
             <a href="https://www.cameroon-info.net/article/cameroun-insolite-un-homme-convoque-a-la-gendarmerie-dans-les-commissariats-et-au-parquet-404022.html" target="_blank">Lire l'article complet</a>
             </p>
-            <span style="color: #85929e; font-style: italic;">YAOUNDE 27 Aout 2021  15h00 | Rédigé et publié par Pierre Arnaud NTCHAPDA, Cameroon-Info.Net</span>
+            <span>YAOUNDE 27 Aout 2021  15h00 | Rédigé et publié par Pierre Arnaud NTCHAPDA, Cameroon-Info.Net</span>
         </div>
         <div class="file">
             <img src="./images/activities/Conférence_de_presse_4_cameroon-info-p-net_800xm9x.jpg" alt="Conférence_de_presse_4_cameroon-info-p-net_800xm9x">
@@ -258,7 +258,7 @@
 </div>
 
 <div class="map" style="margin: 3rem 8rem 6rem 8rem; height: 450px; width:auto;" data-aos="fade-down">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.875093562388!2d9.697619774471459!3d4.045898446987068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x106112f345d79c4b%3A0xa8cb5f198b9288ce!2sRue%20Dika%20Mpondo%2C%20Douala!5e0!3m2!1sfr!2scm!4v1721231318336!5m2!1sfr!2scm" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.875093562388!2d9.697619774471459!3d4.045898446987068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x106112f345d79c4b%3A0xa8cb5f198b9288ce!2sRue%20Dika%20Mpondo%2C%20Douala!5e0!3m2!1sfr!2scm!4v1721231318336!5m2!1sfr!2scm" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 @endsection
