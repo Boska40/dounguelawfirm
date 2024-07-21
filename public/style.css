@@ -932,6 +932,10 @@ footer .topfooter .contact ul li a:hover {
         /* height: 500px; */
         width: 100%;
     }
+    #activities article .file img{
+        height: 100%;
+        width: 100%;
+    }
 
     .statistics {
         margin: 2rem;
