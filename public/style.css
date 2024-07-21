@@ -596,7 +596,7 @@ footer .topfooter .contact ul li a:hover {
     padding: 2rem;
 }
 .map iframe{
-    width: 100%;
+    width: 100% !important;
 }
 
 
