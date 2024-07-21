@@ -1138,11 +1138,11 @@ a {
         width: 100%;
     }
 
-    /* #activities article .file img {
+    #activities article .file img {
         height: auto;
         width: auto;
         object-fit: cover;
-    } */
+    }
 
     .statistics {
         margin: 2rem;
