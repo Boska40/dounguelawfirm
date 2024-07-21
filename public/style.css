@@ -564,7 +564,16 @@ footer .topfooter .contact ul li a:hover {
     border: 1px dashed #85929e;
     padding: 1rem;
     margin-bottom: 1rem;
-    height: 250px !important;
+    height: 300px;
+}
+
+#activities article h4, p, a, span{
+    font-size: 12px;
+}
+
+#activities article span{
+    font-style: italic;
+    color: #85929e;
 }
 
 
