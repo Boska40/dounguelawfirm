@@ -576,6 +576,12 @@ footer .topfooter .contact ul li a:hover {
     font-style: italic;
     color: #85929e;
 }
+#activities article .title{
+    width: 70%;
+}
+#activities article .file{
+    width: 30%;
+}
 
 
 
