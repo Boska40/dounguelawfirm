@@ -919,7 +919,7 @@ footer .topfooter .contact ul li a:hover {
 
     #activities article .file {
         width: 100%;
-        height: auto;
+        height: 200px !important;
     }
     #activities article .file video{
         pointer-events: all;
