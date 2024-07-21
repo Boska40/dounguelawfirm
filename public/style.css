@@ -560,11 +560,11 @@ footer .topfooter .contact ul li a:hover {
 #activities article {
     display: flex;
     justify-content: space-between;
-    gap: 1rem;
+    gap: .5rem;
     border: 1px dashed #85929e;
     padding: 1rem;
     margin-bottom: 1rem;
-    height: 400px;
+    height: 450px;
 }
 
 #activities article h4, p, a{
