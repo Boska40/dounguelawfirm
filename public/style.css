@@ -571,7 +571,7 @@ footer .topfooter .contact ul li a:hover {
     font-size: 12px;
 }
 
-#activities article span{
+#activities article .title span{
     font-style: italic;
     color: #85929e;
 }
