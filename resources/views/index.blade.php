@@ -225,8 +225,7 @@
         <div class="title">
             <h4>Cameroun Info – Insolite: Un homme convoqué à la gendarmerie, dans les commissariats et au Parquet à Douala, près de 30 fois en deux ans</h4>
             <p>
-            Jules Mbida Mbezele subit l’acharnement de son frère consanguin Pierre Ebanda en conflit avec lui depuis plusieurs années dans le cadre d’une affaire de succession familiale. <br>
-            Jeudi, 26 Août 2021, il est 15 heures. Nous sommes  à Afrique Hôtel, un établissement touristique situé dans le 3ème arrondissement de la ville de Douala. L’une de ses salles accueille une conférence de presse.  Elle n’est pas comme les autres. Ce sont des membres d’une famille polygamique qui ont réuni les journalistes pour leur parler des problèmes qu’ils... 
+            Jules Mbida Mbezele subit l’acharnement de son frère consanguin Pierre Ebanda en conflit avec lui depuis plusieurs années dans le cadre d’une affaire de succession familiale. Jeudi, 26 Août 2021, il est 15 heures. Nous sommes  à Afrique Hôtel, un établissement touristique situé dans le 3ème arrondissement de la ville de Douala. L’une de ses salles accueille une conférence de presse.  Elle n’est pas comme les autres. Ce sont des membres d’une famille polygamique qui ont réuni les journalistes pour leur parler des problèmes qu’ils... 
             <a href="https://www.cameroon-info.net/article/cameroun-insolite-un-homme-convoque-a-la-gendarmerie-dans-les-commissariats-et-au-parquet-404022.html" target="_blank">Lire l'article complet</a>
             </p>
             <span>YAOUNDE 27 Aout 2021  15h00 | Rédigé et publié par Pierre Arnaud NTCHAPDA, Cameroon-Info.Net</span>
