@@ -214,7 +214,7 @@
             <p>Thème : fonction publique camerounaise, quand le serviteur devient roi. <br> 
                 <a href="https://www.facebook.com/share/v/6QFAd6MY3rndXuQz/" target="_blank">Voir l'émission</a>
             </p>
-            <span>Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
+            <span style="font-size: 12px;font-style: italic;color: #85929e;">Publié par Corentin DOUNGUE | Le 15 Juin 2024 à
                 10h21</span>
         </div>
         <div class="file">
