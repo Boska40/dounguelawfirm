@@ -569,13 +569,14 @@ footer .topfooter .contact ul li a:hover {
 
 #activities article .file {
     width: 40%;
+    height: 100%;
     overflow: hidden;
 }
 
 #activities article .file img {
     width: 100%;
     height: auto;
-    object-fit: cover;
+    /* object-fit: cover; */
 }
 
 #activities article .file video{
@@ -595,9 +596,12 @@ footer .topfooter .contact ul li a:hover {
 #activities article .title p {
     font-size: 12px;
 }
+#activities article .title h4 {
+    font-size: 12px !important;
+}
 
 #activities article .title span {
-    font-size: 13px !important;
+    font-size: 12px !important;
 }
 
 /* statistics */

@@ -185,7 +185,7 @@
     <article data-aos="fade-up">
         <div class="title">
             <h4>EMISSION DU 19 JUILLET 2024 BALAFON TV</h4>
-            <p style="text-align: justify;"> <br>
+            <p style="text-align: justify; font-size 12px;">GRAND PLATEAU BALAFON TV<br>
                 <a href="https://m.facebook.com/story.php?story_fbid=406994755718023&id=61553684789108&sfnsn=wa&mibextid=2Rb1fB" target="_blank">Voir l'émission</a>
             </p>
             <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 20 Juillet 2024 à
