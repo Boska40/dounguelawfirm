@@ -39,7 +39,7 @@
     <main>
         @yield('content')
 
-        <div class="cookies">
+        <!-- <div class="cookies">
             <div class="top">
                 <span><img src="./images/tools-icons/cookies-svgrepo-com.svg" width="50"></span>
                 <span>
@@ -57,7 +57,7 @@
                 <button class="openbtn">Accepter</button>
                 <button class="closebtn">Refuser</button>
             </div>
-        </div>
+        </div> -->
     </main>
 
     <footer>
