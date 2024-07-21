@@ -582,6 +582,10 @@ footer .topfooter .contact ul li a:hover {
 #activities article .file{
     width: 30%;
 }
+#activities article .file img, video{
+    width: 100%;
+}
+
 
 
 
