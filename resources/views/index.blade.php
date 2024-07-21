@@ -257,7 +257,7 @@
 </div>
 
 <div class="map" style="margin: 3rem 8rem 6rem 8rem; height: 450px; width:auto;" data-aos="fade-down">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.875093562388!2d9.697619774471459!3d4.045898446987068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x106112f345d79c4b%3A0xa8cb5f198b9288ce!2sRue%20Dika%20Mpondo%2C%20Douala!5e0!3m2!1sfr!2scm!4v1721231318336!5m2!1sfr!2scm" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.875093562388!2d9.697619774471459!3d4.045898446987068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x106112f345d79c4b%3A0xa8cb5f198b9288ce!2sRue%20Dika%20Mpondo%2C%20Douala!5e0!3m2!1sfr!2scm!4v1721231318336!5m2!1sfr!2scm" width="auto" height="auto" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 @endsection
