@@ -913,10 +913,12 @@ footer .topfooter .contact ul li a:hover {
 
     #activities article .title {
         width: 100%;
+        height: auto;
     }
 
     #activities article .file {
         width: 100%;
+        height: auto;
     }
     #activities article .file video{
         pointer-events: all;
