@@ -184,6 +184,19 @@
     <p style="margin-bottom: 3rem; color: #85929e; text-align: center;">Nous intervenons lors des émissions radio et télé afin d'apporter notre expertise en édifiant le public sur l'application du droit dans la vie quotidienne.</p>
     <article data-aos="fade-up">
         <div class="title">
+            <h4>EMISSION DU 19 JUILLET 2024 BALAFON TV</h4>
+            <p style="text-align: justify;">Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
+                <a href="https://m.facebook.com/story.php?story_fbid=406994755718023&id=61553684789108&sfnsn=wa&mibextid=2Rb1fB" target="_blank">Voir l'émission</a>
+            </p>
+            <span style="color: #85929e; font-style: italic;">Publié par Corentin DOUNGUE | Le 20 Juillet 2024 à
+                15h43</span>
+        </div>
+        <div class="file">
+            <video src="./images/videos/19juillet2024.mp4" playsinline controls loop></video>
+        </div>
+    </article>
+    <article data-aos="fade-up">
+        <div class="title">
             <h4>EMISSION DU 1er JUILLET 2024 BALAFON TV PRESENTEE PAR BLANCHE BITGA</h4>
             <p style="text-align: justify;">Thème : Hécatombe sur nos routes, qui paie pour les vies perdues et celles détruites ? <br>
                 <a href="https://www.facebook.com/share/v/tWGYCWx7gF2SxxUL/?mibextid=xfxF2i" target="_blank">Voir l'émission</a>
