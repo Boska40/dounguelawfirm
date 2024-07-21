@@ -943,7 +943,7 @@ a {
     }
 
     #activities article .file img {
-        height: auto;
+        height: 100%;
         width: auto;
         object-fit: cover;
     }
@@ -1139,7 +1139,7 @@ a {
     }
 
     #activities article .file img {
-        height: auto;
+        height: 100%;
         width: auto;
         object-fit: cover;
     }
