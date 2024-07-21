@@ -584,11 +584,17 @@ footer .topfooter .contact ul li a:hover {
 }
 #activities article .file{
     width: 30%;
+    overflow: hidden;
 }
-#activities article .file img, video{
+#activities article .file img{
     width: 100%;
     height: 100%;
 }
+#activities article .file video{
+    width: 100%;
+    height: 100%;
+}
+
 
 .map{
     margin: 2rem 8rem;
