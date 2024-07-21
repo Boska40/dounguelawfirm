@@ -929,7 +929,7 @@ footer .topfooter .contact ul li a:hover {
     }
     #activities article .file video{
         pointer-events: all;
-        height: 500px;
+        /* height: 500px; */
     }
 
     .statistics {
