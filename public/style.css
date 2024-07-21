@@ -564,11 +564,11 @@ footer .topfooter .contact ul li a:hover {
     border: 1px dashed #85929e;
     padding: 1rem;
     margin-bottom: 1rem;
+    height: 200px !importantzzz;
 }
 
 #activities article .file {
     width: 40%;
-    height: 200px;
     overflow: hidden;
 }
 
