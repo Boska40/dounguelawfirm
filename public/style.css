@@ -908,7 +908,7 @@ footer .topfooter .contact ul li a:hover {
         display: flex;
         flex-direction: column;
         gap: 1rem;
-        height: auto;
+        height: auto !important;
         padding: .5rem;
     }
 
