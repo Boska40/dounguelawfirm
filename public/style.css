@@ -567,11 +567,12 @@ footer .topfooter .contact ul li a:hover {
     height: 300px;
 }
 
-#activities article h4, p, a, span{
+#activities article h4, p, a{
     font-size: 12px;
 }
 
 #activities article .title span{
+    font-size: 12px !important;
     font-style: italic !important;
     color: #85929e !important;
 }
